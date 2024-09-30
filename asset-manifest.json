@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-salva-navbar/static/css/main.28e236d3.css",
+    "main.js": "/ws101-salva-navbar/static/js/main.e5d89cc5.js",
+    "index.html": "/ws101-salva-navbar/index.html",
+    "main.28e236d3.css.map": "/ws101-salva-navbar/static/css/main.28e236d3.css.map",
+    "main.e5d89cc5.js.map": "/ws101-salva-navbar/static/js/main.e5d89cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e236d3.css",
+    "static/js/main.e5d89cc5.js"
+  ]
+}
